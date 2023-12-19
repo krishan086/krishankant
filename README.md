@@ -1,4 +1,4 @@
-# krishankant
+# krishan kant
 [![MasterHead](https://repository-images.githubusercontent.com/519533154/f834253f-66b2-467b-883c-4bc92bab060a)]
 <h1 align="center">Hi 👋, I'm Krishan Kant</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
